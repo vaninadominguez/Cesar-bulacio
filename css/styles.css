@@ -47,6 +47,10 @@
 *::after {
   box-sizing: border-box;
 }
+/**BOTÓN DE SUSCRIBE**/
+input.button {
+	background-color:red;
+}
 
 html {
   font-family: sans-serif;
